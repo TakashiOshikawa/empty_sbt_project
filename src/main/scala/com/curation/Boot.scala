@@ -1,3 +1,4 @@
+package com.curation
 
 object Boot extends App {
 
